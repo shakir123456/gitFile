@@ -1,0 +1,6 @@
+hii git 2
+git init
+git config user.name "shakir"
+git config user.email "shakir@gmail.com"
+git add *
+git commit -m "2 file added"
